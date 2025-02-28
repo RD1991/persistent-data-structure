@@ -117,19 +117,3 @@ python persistent_stack.py   # Compare regular vs persistent stack
 python persistent_tree.py    # Compare regular vs persistent tree
 python persistent_dict.py    # Compare regular vs persistent dictionary
 ```
-
-## Learning Path for Beginners
-
-1. Start with `persistent_list.py` 
-   - Simplest example showing basic persistence
-   - Clear comparison with traditional list
-
-2. Move to `persistent_stack.py`
-   - Introduces history tracking
-   - Shows linked version history
-
-3. Explore `persistent_dict.py`
-   - Demonstrates practical time-travel features
-   - Shows timestamp-based versioning
-
-4. Finally, study `
